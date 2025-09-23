@@ -4,10 +4,16 @@
 
 I'm collaborating with the [Alabama Progress Discord server](https://discord.gg/t7b5ryw5NG) on a political research project to provide statewide latitude and longitude coordinates for Alabama precincts. We're geocoding addresses sourced from each county and using the labels from the [2024 General Election Results - Precinct Level](https://www.sos.alabama.gov/alabama-votes/voter/election-data) dataset on the Alabama Secretary of State's website. The result is a set of spreadsheets containing precinct names, addresses, and their corresponding geographic coordinates.
 
+# Geocoding Methods
+
+Geographic coordinates were generated using a mix of:
+* [Nominatim](https://nominatim.org/) (OpenStreetMap-based geocoding)
+* [Google Maps](https://developers.google.com/maps/documentation/geocoding/overview) (used only when open-source data was insufficient or incomplete)
+
 Each output county spreadsheet includes:
 
-Precinct name
-Precinct address
-Latitude and longitude coordinates
+* Precinct name
+* Precinct address
+* Latitude and longitude coordinates
 
 Volunteers from the Discord server have contributed to compiling data for many counties so far. The result is a growing set of spreadsheets that aim to improve accessibility and transparency around precinct locations in Alabama and to assist political researchers with useful datasets. If you’d like to contribute to this project, please reach out to me in the Alabama Discord server: **@butterbeancw**.
