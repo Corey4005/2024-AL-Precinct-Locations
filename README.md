@@ -10,6 +10,8 @@ Geographic coordinates were generated using a mix of:
 * [Nominatim](https://nominatim.org/) (OpenStreetMap-based geocoding)
 * [Google Maps](https://developers.google.com/maps/documentation/geocoding/overview) (used only when open-source data was insufficient or incomplete)
 
+# County Datasets
+
 Each output county spreadsheet includes:
 
 * Precinct name
