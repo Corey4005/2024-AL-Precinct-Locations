@@ -18,4 +18,4 @@ Each output county spreadsheet includes:
 * Precinct address
 * Latitude and longitude coordinates
 
-Volunteers from the Discord server have contributed to compiling data for many counties so far. The result is a growing set of spreadsheets that aim to improve accessibility and transparency around precinct locations in Alabama and to assist political researchers with useful datasets. If you’d like to contribute to this project, please reach out to me in the Alabama Discord server: **@butterbeancw**.
+Volunteers from the Discord server have contributed to compiling data for many counties so far. The result is a growing set of spreadsheets that aim to improve accessibility and transparency around precinct locations in Alabama and to assist political researchers with useful geospatial datasets. If you’d like to contribute to this project, please reach out to me in the Alabama Discord server: **@butterbeancw**.
