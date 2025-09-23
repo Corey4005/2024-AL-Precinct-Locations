@@ -20,8 +20,9 @@ Each output county spreadsheet includes:
 
 Volunteers from the Discord server have contributed to compiling data for many counties so far. The result is a growing set of spreadsheets that aim to improve accessibility and transparency around precinct locations in Alabama and to assist political researchers with useful geospatial datasets. If you’d like to contribute to this project, please reach out to us on the Alabama Progress Discord Server. If you find an issue with any dataset, please [open an issue](https://github.com/Corey4005/2024-AL-Precinct-Locations/issues). 
 
-| County            | FIPS Code | Done? | Discord Contributor |
-| ----------------- | --------- | ----- | ------------------- |
+
+| County            | FIPS Code | Done? | Discord Contributor | 
+| ----------------- | --------- | ----- | ------------------- | 
 | Autauga County    | 001       | Yes   | butterbeancw        |
 | Baldwin County    | 003       |       |                     |
 | Barbour County    | 005       |       |                     |
