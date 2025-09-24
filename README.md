@@ -44,7 +44,7 @@ Volunteers from the Discord server have contributed to compiling data for many c
 | Coosa County      | 037       |       |                     |
 | Covington County  | 039       |       |                     |
 | Crenshaw County   | 041       |       |                     |
-| Cullman County    | 043       | Yes   | squigglejot         |
+| Cullman County    | 043       | Yes   | squigglejot         |https://github.com/Corey4005/2024-AL-Precinct-Locations/blob/main/County-Precincts-Labeled/cullman.csv |
 | Dale County       | 045       |       |                     |
 | Dallas County     | 047       |       |                     |
 | DeKalb County     | 049       |       |                     |
@@ -67,7 +67,7 @@ Volunteers from the Discord server have contributed to compiling data for many c
 | Limestone County  | 083       |       |                     |
 | Lowndes County    | 085       |       |                     |
 | Macon County      | 087       |       |                     |
-| Madison County    | 089       | Yes   | BamaProgress        |
+| Madison County    | 089       | Yes   | BamaProgress        |https://github.com/Corey4005/2024-AL-Precinct-Locations/blob/main/County-Precincts-Labeled/madison.csv |
 | Marengo County    | 091       |       |                     |
 | Marion County     | 093       |       |                     |
 | Marshall County   | 095       |       |                     |
