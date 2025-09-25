@@ -21,9 +21,9 @@ Each output county spreadsheet includes:
 Volunteers from the Discord server have contributed to compiling data for many counties so far. The result is a growing set of spreadsheets that aim to improve accessibility and transparency around precinct locations in Alabama and to assist political researchers with useful geospatial datasets. If you’d like to contribute to this project, please reach out to us on the Alabama Progress Discord Server. If you find an issue with any dataset, please [open an issue](https://github.com/Corey4005/2024-AL-Precinct-Locations/issues). 
 
 
-| County            | FIPS Code | Done? | Discord Contributor | Link |
-| ----------------- | --------- | ----- | ------------------- | ---- |
-| Autauga County    | 001       | Yes   | butterbeancw        |https://github.com/Corey4005/2024-AL-Precinct-Locations/blob/main/County-Precincts-Labeled/autauga.csv |
+| County            | FIPS Code | Done? | Discord Contributor | Verified Addresses | Link |
+| ----------------- | --------- | ----- | ------------------- | ------------------ | ---- |
+| Autauga County    | 001       | Yes   | butterbeancw        |https://autaugacountyprobateoffice.com/wp-content/uploads/2022/11/polling-place-chart.pdf| https://github.com/Corey4005/2024-AL-Precinct-Locations/blob/main/County-Precincts-Labeled/autauga.csv |
 | Baldwin County    | 003       |       |                     |
 | Barbour County    | 005       |       |                     |
 | Bibb County       | 007       |       |                     |
@@ -44,7 +44,7 @@ Volunteers from the Discord server have contributed to compiling data for many c
 | Coosa County      | 037       |       |                     |
 | Covington County  | 039       |       |                     |
 | Crenshaw County   | 041       |       |                     |
-| Cullman County    | 043       | Yes   | squigglejot         |https://github.com/Corey4005/2024-AL-Precinct-Locations/blob/main/County-Precincts-Labeled/cullman.csv |
+| Cullman County    | 043       | Yes   | squigglejot         |                    | https://github.com/Corey4005/2024-AL-Precinct-Locations/blob/main/County-Precincts-Labeled/cullman.csv |
 | Dale County       | 045       |       |                     |
 | Dallas County     | 047       |       |                     |
 | DeKalb County     | 049       |       |                     |
@@ -67,7 +67,7 @@ Volunteers from the Discord server have contributed to compiling data for many c
 | Limestone County  | 083       |       |                     |
 | Lowndes County    | 085       |       |                     |
 | Macon County      | 087       |       |                     |
-| Madison County    | 089       | Yes   | BamaProgress        |https://github.com/Corey4005/2024-AL-Precinct-Locations/blob/main/County-Precincts-Labeled/madison.csv |
+| Madison County    | 089       | Yes   | BamaProgress        |                    | https://github.com/Corey4005/2024-AL-Precinct-Locations/blob/main/County-Precincts-Labeled/madison.csv |
 | Marengo County    | 091       |       |                     |
 | Marion County     | 093       |       |                     |
 | Marshall County   | 095       |       |                     |
