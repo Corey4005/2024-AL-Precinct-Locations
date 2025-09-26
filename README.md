@@ -23,7 +23,7 @@ Volunteers from the Discord server have contributed to compiling data for many c
 
 | County            | FIPS Code | Done? | Discord Contributor | Verified Addresses | Link |
 | ----------------- | --------- | ----- | ------------------- | ------------------ | ---- |
-| Autauga County    | 001       | Yes   | butterbeancw        |https://autaugacountyprobateoffice.com/wp-content/uploads/2022/11/polling-place-chart.pdf| https://github.com/Corey4005/2024-AL-Precinct-Locations/blob/main/County-Precincts-Labeled/autauga.csv |
+| Autauga County    | 001       | Yes   | butterbeancw        | https://autaugacountyprobateoffice.com/wp-content/uploads/2022/11/polling-place-chart.pdf | https://github.com/Corey4005/2024-AL-Precinct-Locations/blob/main/County-Precincts-Labeled/autauga.csv |
 | Baldwin County    | 003       |       |                     |
 | Barbour County    | 005       |       |                     |
 | Bibb County       | 007       |       |                     |
@@ -67,7 +67,7 @@ Volunteers from the Discord server have contributed to compiling data for many c
 | Limestone County  | 083       |       |                     |
 | Lowndes County    | 085       |       |                     |
 | Macon County      | 087       |       |                     |
-| Madison County    | 089       | Yes   | BamaProgress        |                    | https://github.com/Corey4005/2024-AL-Precinct-Locations/blob/main/County-Precincts-Labeled/madison.csv |
+| Madison County    | 089       | Yes   | BamaProgress        | https://www.madisoncountyvotesal.gov/wp-content/uploads/2023/11/2024-Polling-Locations.pdf | https://github.com/Corey4005/2024-AL-Precinct-Locations/blob/main/County-Precincts-Labeled/madison.csv |
 | Marengo County    | 091       |       |                     |
 | Marion County     | 093       |       |                     |
 | Marshall County   | 095       |       |                     |
